@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import CounterContext from "../../../../contexts/CounterCOntext";
+import CounterContext from "../../../../contexts/CounterContext";
 
 function BlogsCard({ blog }) {
   const { count, setCount } = useContext(CounterContext);

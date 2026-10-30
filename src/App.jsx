@@ -14,7 +14,7 @@ import News from "./components/pages/news/News";
 import Dashboard from "./components/pages/Dashboard";
 import Blogs from "./components/pages/blogs/Blogs";
 import AuthForm from "./components/pages/auth/Auth";
-import CounterContext from "../contexts/CounterCOntext";
+import CounterContext from "../contexts/CounterContext";
 import Admin from "./components/admin";
 import DashhboardLayouts from "./layouts/DashboardLayouts";
 import PrivateRoutes from "./components/PrivateRoutes";

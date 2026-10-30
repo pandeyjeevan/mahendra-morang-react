@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import CounterContext from "../../contexts/CounterCOntext.jsx";
+import CounterContext from "../../contexts/CounterContext.jsx";
 import { useContext } from "react";
 import AuthContext from "../../contexts/AuthContext.jsx";
 
